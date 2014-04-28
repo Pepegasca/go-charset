@@ -2,7 +2,7 @@ package main
 
 import (
 	"bytes"
-	"code.google.com/p/go-charset/charset"
+"github.com/pepegasca/go-charset/charset"
 	_ "code.google.com/p/go-charset/charset/iconv"
 	"flag"
 	"fmt"

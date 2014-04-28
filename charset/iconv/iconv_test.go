@@ -3,7 +3,7 @@ package iconv_test
 import (
 	_ "code.google.com/p/go-charset/charset/iconv"
 	"bytes"
-	"code.google.com/p/go-charset/charset"
+"github.com/pepegasca/go-charset/charset"
 	"io"
 	"strings"
 	"testing"
